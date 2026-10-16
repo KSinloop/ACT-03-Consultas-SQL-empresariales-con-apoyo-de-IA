@@ -1,0 +1,49 @@
++-----------+----------+--------------------+-------------------------+---------------------+-----------------------+--------------------+----------------------+--------------------+
+| region    | posicion | producto_id_origen | nombre                  | rentabilidad_actual | rentabilidad_anterior | variacion_absoluta | variacion_porcentual | sin_datos_anterior |
++-----------+----------+--------------------+-------------------------+---------------------+-----------------------+--------------------+----------------------+--------------------+
+| Centro    |        1 |                214 | Baumanómetro Digital    |            11722.50 |              14580.00 |           -2857.50 |               -19.60 |                  0 |
+| Centro    |        2 |                208 | Bloqueador Solar SPF50  |             6288.00 |               3102.00 |            3186.00 |               102.71 |                  0 |
+| Centro    |        3 |                211 | Multivitamínico Diario  |             3126.60 |               2948.40 |             178.20 |                 6.04 |                  0 |
+| Centro    |        4 |                213 | Termómetro Digital      |             2734.60 |               2841.30 |            -106.70 |                -3.76 |                  0 |
+| Centro    |        5 |                215 | Crema Humectante 400ml  |             2716.00 |               2913.60 |            -197.60 |                -6.78 |                  0 |
+| Norte     |        1 |                216 | Glucómetro Digital      |             9576.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Norte     |        2 |                208 | Bloqueador Solar SPF50  |             6168.00 |               2946.00 |            3222.00 |               109.37 |                  0 |
+| Norte     |        3 |                214 | Baumanómetro Digital    |             5175.00 |               5310.00 |            -135.00 |                -2.54 |                  0 |
+| Norte     |        4 |                204 | Omeprazol 20mg 14 Cap   |             3229.50 |               2746.50 |             483.00 |                17.59 |                  0 |
+| Norte     |        5 |                211 | Multivitamínico Diario  |             2772.00 |               2511.00 |             261.00 |                10.39 |                  0 |
+| Occidente |        1 |                216 | Glucómetro Digital      |             9576.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Occidente |        2 |                208 | Bloqueador Solar SPF50  |             6330.00 |               2706.00 |            3624.00 |               133.92 |                  0 |
+| Occidente |        3 |                214 | Baumanómetro Digital    |             4860.24 |               4972.74 |            -112.50 |                -2.26 |                  0 |
+| Occidente |        4 |                211 | Multivitamínico Diario  |             4527.00 |               5323.50 |            -796.50 |               -14.96 |                  0 |
+| Occidente |        5 |                206 | Vitamina C 1000mg Eff   |             2832.50 |               2939.00 |            -106.50 |                -3.62 |                  0 |
+| Sur       |        1 |                208 | Bloqueador Solar SPF50  |            12054.00 |               6024.00 |            6030.00 |               100.10 |                  0 |
+| Sur       |        2 |                214 | Baumanómetro Digital    |             5917.76 |               5535.24 |             382.52 |                 6.91 |                  0 |
+| Sur       |        3 |                211 | Multivitamínico Diario  |             2622.60 |               2779.65 |            -157.05 |                -5.65 |                  0 |
+| Sur       |        4 |                215 | Crema Humectante 400ml  |             2462.80 |               2438.80 |              24.00 |                 0.98 |                  0 |
+| Sur       |        5 |                212 | Jarabe Tos 120ml        |             2369.40 |               4785.55 |           -2416.15 |               -50.49 |                  0 |
++-----------+----------+--------------------+-------------------------+---------------------+-----------------------+--------------------+----------------------+--------------------+
++-----------+----------+--------------------+-------------------------+---------------------+-----------------------+--------------------+----------------------+--------------------+
+| region    | posicion | producto_id_origen | nombre                  | rentabilidad_actual | rentabilidad_anterior | variacion_absoluta | variacion_porcentual | sin_datos_anterior |
++-----------+----------+--------------------+-------------------------+---------------------+-----------------------+--------------------+----------------------+--------------------+
+| Centro    |        1 |                214 | Baumanómetro Digital    |            14580.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Centro    |        2 |                212 | Jarabe Tos 120ml        |             4820.75 |                  NULL |               NULL |                 NULL |                  1 |
+| Centro    |        3 |                208 | Bloqueador Solar SPF50  |             3102.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Centro    |        4 |                211 | Multivitamínico Diario  |             2948.40 |                  NULL |               NULL |                 NULL |                  1 |
+| Centro    |        5 |                215 | Crema Humectante 400ml  |             2913.60 |                  NULL |               NULL |                 NULL |                  1 |
+| Norte     |        1 |                214 | Baumanómetro Digital    |             5310.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Norte     |        2 |                212 | Jarabe Tos 120ml        |             4196.50 |                  NULL |               NULL |                 NULL |                  1 |
+| Norte     |        3 |                208 | Bloqueador Solar SPF50  |             2946.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Norte     |        4 |                204 | Omeprazol 20mg 14 Cap   |             2746.50 |                  NULL |               NULL |                 NULL |                  1 |
+| Norte     |        5 |                211 | Multivitamínico Diario  |             2511.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Occidente |        1 |                211 | Multivitamínico Diario  |             5323.50 |                  NULL |               NULL |                 NULL |                  1 |
+| Occidente |        2 |                214 | Baumanómetro Digital    |             4972.74 |                  NULL |               NULL |                 NULL |                  1 |
+| Occidente |        3 |                212 | Jarabe Tos 120ml        |             4314.20 |                  NULL |               NULL |                 NULL |                  1 |
+| Occidente |        4 |                206 | Vitamina C 1000mg Eff   |             2939.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Occidente |        5 |                208 | Bloqueador Solar SPF50  |             2706.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Sur       |        1 |                208 | Bloqueador Solar SPF50  |             6024.00 |                  NULL |               NULL |                 NULL |                  1 |
+| Sur       |        2 |                214 | Baumanómetro Digital    |             5535.24 |                  NULL |               NULL |                 NULL |                  1 |
+| Sur       |        3 |                212 | Jarabe Tos 120ml        |             4785.55 |                  NULL |               NULL |                 NULL |                  1 |
+| Sur       |        4 |                211 | Multivitamínico Diario  |             2779.65 |                  NULL |               NULL |                 NULL |                  1 |
+| Sur       |        5 |                202 | Ibuprofeno 400mg 10 Tab |             2547.04 |                  NULL |               NULL |                 NULL |                  1 |
++-----------+----------+--------------------+-------------------------+---------------------+-----------------------+--------------------+----------------------+--------------------+
+ERROR 1644 (45000) at line 14: Parámetros inválidos: el trimestre debe estar entre 1 y 4
